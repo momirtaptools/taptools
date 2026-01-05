@@ -6,8 +6,12 @@
 - You can now create up to 25 role templates.
 - TPT now requires an unlock code on first run.
 - The permission preview table now resizes dynamically.
-- Fixed a bug with role cloning.
 - Switched the hosting from Netlify to GitHub.
+- The main window will now horizontally stretch in full screen mode, plus some smaller UI updates.
+- Updated the tutorial videos.
+- The loading screen isn't white anymore.
+- Added a button to see the entire changelog.
+- Fixed a bug with role cloning.
 
 ### Version 3.3.1
 - The Add button for role templates will now be disabled if the role is already in the list.
