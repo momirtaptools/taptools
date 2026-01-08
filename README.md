@@ -7,11 +7,12 @@
 - TPT now requires an unlock code on first run.
 - The permission preview table now resizes dynamically.
 - Switched the hosting from Netlify to GitHub.
-- The main window will now horizontally stretch in full screen mode, plus some smaller UI updates.
+- The main window will now horizontally stretch in full screen mode.
+- Added a setting to preserve the window mode.
 - Updated the tutorial videos.
 - The loading screen isn't white anymore.
 - Added a button to see the entire changelog.
-- Fixed a bug with role cloning.
+- Bug fixes and UI updates.
 
 ### Version 3.3.1
 - The Add button for role templates will now be disabled if the role is already in the list.
