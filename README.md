@@ -1,5 +1,21 @@
 # Full app changelog:
 
+### Version 4.0.0
+- Added a button to edit which Clario roles are included in the template.
+- The drag&drop fields and text fields are now combined into one.
+- Added a button to quickly modify SQL queries using Gemini.
+- Removed the Send Feedback option.
+- The History and Recents menu now looks more consistent with the tab bar.
+- The tab bar is now more compact and the labels are gone.
+- Added a button to minimize TPT.
+- Added an option to reduce transparency of various elements.
+- Added an option to disable the specular lighting effects.
+- Added a button to quickly reinstall or force-update TPT.
+- Added a button to remove recently generated queries.
+- Added a small button to dismiss a notification.
+- When comparing files, the app will now automatically scroll down.
+- Bug fixes and UI improvements.
+
 ### Version 3.4.0
 - Added ability to load a permission file on the Build tab and auto-fill the data.
 - Role templates will now show in multiple rows instead of one scrollable row.
